@@ -1,0 +1,6 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/Evgesha-thunder/user-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/Evgesha-thunder/notification-service.git
